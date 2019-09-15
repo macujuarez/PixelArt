@@ -105,3 +105,5 @@ paleta_de_colores();
   $guardar.click(function(){
     guardarPixelArt();
   });
+
+  console.log($guardar);
